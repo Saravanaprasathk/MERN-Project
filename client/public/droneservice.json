@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "d_name":"Dji Drones",
+        "service":"wedding shoot",
+        "s_hour":"1 day",
+        "d_img":"./Asset/dji.jpg",
+        "price":5000
+ },
+ {
+        "id":2,
+        "d_name":"custom Drone",
+        "service":"Surveillence",
+        "s_hour":"one week",
+        "d_img":"./Asset/custom.jpg",
+        "price":25000
+ },
+ {
+    "id":3,
+    "d_name":"Racing Drone",
+    "service":"Drone Race",
+    "s_hour":"2 day",
+    "d_img":"./Asset/race.jpg",
+    "price":10000
+ }
+]

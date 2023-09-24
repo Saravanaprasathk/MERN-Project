@@ -1,0 +1,25 @@
+/* ----------------<Home> */
+.dhome{
+    background-image: url('../asset/homedrone.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    
+  
+}
+   .dhhead{
+    color: aqua;
+    font-family: cursive;
+    font-size: 350%;
+    font-weight: bolder;
+   } 
+   
+
+
+
+/*---------------- <Reuasble> */
+.navbar{
+    font-family: cursive;
+    font-size: xx-large;
+    color: blue;
+}

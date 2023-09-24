@@ -1,0 +1,15 @@
+.head{
+    font-family: cursive;
+    font-weight: bolder;
+}
+.U_image{
+    max-width: 700px;
+    box-shadow: 20px 20px 10px grey;
+}
+.U_body{
+    background-color: aqua;
+}
+.U_card{
+    box-shadow: 20px 20px 10px grey;
+
+}

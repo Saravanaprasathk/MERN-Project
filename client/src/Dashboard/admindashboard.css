@@ -1,0 +1,9 @@
+.All{
+    background-image: url('https://images.pexels.com/photos/6205624/pexels-photo-6205624.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.L{
+    margin-left: 30px;
+}

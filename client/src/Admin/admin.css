@@ -1,0 +1,11 @@
+.admin{
+    background-image: url('https://images.pexels.com/photos/1204941/pexels-photo-1204941.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.U_login{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: medium;
+   font-weight: bold;
+}

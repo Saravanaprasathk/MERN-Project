@@ -1,0 +1,11 @@
+.all{
+    background-image: url('https://images.pexels.com/photos/8072335/pexels-photo-8072335.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+.U_log{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    font-weight: bold;
+}
